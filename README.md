@@ -8,6 +8,7 @@
 6. "Поигрался" с гиперамараметрами, добавил lr_sheduler ReduceOnPlateu
 7. Обучался по 3-4 эпохи.
 8. Получился результат: private_score- 1.64
+![](https://https://github.com/ShadowRus/car-plate-numbers-ocr/score.jpg)
 
 
 Нереализованные идеи, которые могли бы улучшить результат:
